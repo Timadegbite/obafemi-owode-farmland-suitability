@@ -1,9 +1,3 @@
-Here’s a **clean, professional GitHub description** you can paste directly. It reads like a serious geospatial project, not a casual upload.
-
----
-
-## README.md
-
 ### **Farmland Suitability Analysis — Obafemi Owode LGA, Ogun State, Nigeria**
 
 This project presents a **GIS-based multi-criteria land suitability analysis** developed to identify optimal areas for agricultural expansion within **Obafemi Owode Local Government Area (LGA), Ogun State, Nigeria**.
