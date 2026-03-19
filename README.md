@@ -140,11 +140,3 @@ Focused on applying GIS techniques for **agricultural planning and land suitabil
 ## **License**
 
 This project is intended for educational and analytical purposes. Data sources retain their respective licenses.
-
----
-
-If you want to elevate this further, I can also:
-
-* design a **GitHub cover image (project thumbnail)**
-* write a **short LinkedIn post to showcase the project**
-* or refine this into a **portfolio-grade case study**
