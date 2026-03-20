@@ -1,3 +1,5 @@
+<img width="7800" height="6625" alt="Obafemi Owode Farmland Suitability2" src="https://github.com/user-attachments/assets/38bcb423-d487-4fce-8512-9ff9a669a9de" />
+
 ### **Farmland Suitability Analysis — Obafemi Owode LGA, Ogun State, Nigeria**
 
 This project presents a **GIS-based multi-criteria land suitability analysis** developed to identify optimal areas for agricultural expansion within **Obafemi Owode Local Government Area (LGA), Ogun State, Nigeria**.
